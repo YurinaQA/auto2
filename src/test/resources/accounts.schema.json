@@ -34,7 +34,7 @@
           "type": {
             "enum": [
               "RUB",
-              "USD",
+              "USD",]
       }
     }
   }
