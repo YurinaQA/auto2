@@ -33,8 +33,7 @@
         "properties": {
           "type": {
             "enum": [
-              "RUB",
-              "USD",]
+              "RUB","USD",]
       }
     }
   }
